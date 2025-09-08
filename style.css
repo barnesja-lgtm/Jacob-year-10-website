@@ -1,1 +1,7 @@
-h1{font-family: ;}
+@font-face {
+    font-family: King-Font;
+    src: url("KIN668.TTF");
+}
+p{
+    font-family: King-Font;
+}
