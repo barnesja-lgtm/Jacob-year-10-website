@@ -1,7 +1,7 @@
 @font-face {
-    font-family: King-Font;
-    src: url("KIN668.TTF");
+    font-family: Type-Font;
+    src: url("typewriter_press/TypewriterPress-Regular.ttf");
 }
-p{
-    font-family: King-Font;
+body {
+    font-family: Type-Font;
 }
